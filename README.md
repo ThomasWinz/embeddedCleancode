@@ -1,6 +1,5 @@
-![logo](https://github.com/ThomasWinz/embeddedCleancode/blob/master/ecc-logo.png)
+![logo](ecc-logo.png?raw=true)
 # Handwerkliche Kunst im industriellen Umfeld
-
 
 ## Beschreibung
 **Embedded clean code** (eCc) soll ein **Fundament für ordentliche und vernünftige industrielle Softwareentwicklung** werden. eCc ist ein Softwareentwicklungs-Regelwerk mit einer gesunden Mischung aus Theorie und "best practice".
@@ -11,6 +10,12 @@ Der professionelle Entwickler wird zukünftig daran zu erkennen sein, dass dies
 
 [weiterlesen...](https://github.com/ThomasWinz/embeddedCleancode/wiki/)
 
+## Download
+[weitere Medien...](https://github.com/ThomasWinz/embeddedCleancode/wiki/Veröffentlichungen)
+
+Poster | Whitepaper | Software           .
+--- | --- | --- 
+[Download  Stand Ende 2017, Version 3](https://github.com/ThomasWinz/embeddedCleancode/blob/master/poster.pdf) |[Download  Stand Ende 2017, Version 1](https://github.com/ThomasWinz/embeddedCleancode/blob/master/WhitePaper.pdf)  | N/A
 
 
 
