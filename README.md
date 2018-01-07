@@ -1,6 +1,6 @@
 ## Beschreibung
 
-**Embedded clean code** (eCc) soll ein **Fundament für ordentliche und vernünftige industrielle Softwareentwicklung** werden. eCc ist ein Softwareentwicklungs-Regelwerk mit einer gesunden Mischung aus Theorie und "best practice".
+**Embedded clean code** (eCc) soll ein **Fundament für ordentliche und vernünftige industrielle Softwareentwicklung** werden. eCc ist ein Softwareentwicklungs-Regelwerk mit einer gesunden Mischung aus _Theorie_ und _best practice_.
 
 Aggressive Releasezyklen von innovativer und sicherheitskritischer Software sind ohne handwerkliche Grundlagen nicht lebbar. Wir sind der Meinung, dass wesentliche Innovationen aus der Web/App Softwareentwicklung Einzug in die klassische Industriesoftwareentwicklung finden muss. 
 
