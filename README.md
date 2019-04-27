@@ -23,7 +23,8 @@ Wir suchen Partner, um das Regelwerk:
 - deutschlandweit bekannt zu machen.
 - weiterzuentwickeln.
 
-> Kontakt: embeddedCleancode@softwareinmotion.de
+> Kontakt xing : [Thomas Winz] (https://www.xing.com/profile/Thomas_Winz2)
+> Kontakt linkedin : [Thomas Winz] (https://www.linkedin.com/in/thomas-winz-901b1014b/)
 
 
 ## Lizenz
